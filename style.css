@@ -1,0 +1,188 @@
+body
+{
+	font-family:Georgia;
+}
+
+.navbar-dark
+{
+	font-weight: bold;
+	font-size: 90%;
+}
+.bg-img
+{
+	width:100%;
+	height:80vh;
+}
+
+
+.nav-item
+{
+	margin:0;
+	padding:0;
+}
+
+.fa-facebook
+{
+	color:darkblue;
+}
+
+.fa-twitter
+{
+	color:DodgerBlue;
+}
+
+.fa-pinterest
+{
+	color:red;
+}
+
+.fa-linkedin
+{
+	color:blue;
+}
+
+.fa-dribbble 
+{
+	color:pink;
+}
+
+#outercontent
+{
+	position:relative;
+	min-height:55vh;
+}
+
+#content
+{
+	background: url("img/bgblog.jpg"), no-repeat;
+	background-size: cover;
+	min-height:55vh;
+	background-position: top;
+	opacity:0.8;
+	background-attachment: fixed;
+}
+
+.overlay
+{
+	position:absolute;
+	left:0;
+	top:0;
+
+}
+
+#team
+{
+	min-height:30vh;
+}
+
+.team-content
+{
+	background: url("img/bg-team.jpg"), no-repeat;
+	background-size: cover;
+	min-height:30vh;
+}
+
+#blog
+{
+	min-height:60vh;
+}
+
+.blog1,.blog2
+{
+	min-height: 50vh;
+	position:relative;
+}
+
+
+.blog-img
+{
+	min-height: 30vh;
+} 
+
+.blog-inner1,.blog-inner2
+{
+	position:absolute;
+	top:65%;
+	left:10%;
+	width:80%;
+	
+	
+}
+
+
+.blog-outer
+{
+	position:relative;
+	height:25vh;
+}
+
+.blog-div
+{
+	position:relative;
+	background: url("img/bgblog.jpg"), no-repeat;
+	background-size: cover;
+	height:25vh;
+	background-position: center;	
+	
+}
+
+.overlay
+{
+	position:absolute;
+	top:0;
+	left:0;
+	background-color: rgba(255,255,255,0.5);
+	width:100%;
+	height:100%;
+}
+
+.plan
+{
+	min-height:50vh;
+}
+
+.card-header
+{
+	color:DodgerBlue;
+}
+
+.client
+{
+	background: url("img/bg-footer.jpg"), no-repeat fixed;
+	background-size: cover;
+	min-height:40vh;
+}
+
+.client1,.client2
+{
+	background: gray;
+	min-height:20vh;
+	position:relative;
+}
+
+.client-pic
+{
+	position:absolute;
+	bottom:90%;
+	left:10%;
+}
+
+.icons
+{
+	float:right;
+	border:1px solid white;
+	margin-right:4px 
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+
+
+#footer-div
+{
+	min-height: 20vh;
+}
+
