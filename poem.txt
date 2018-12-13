@@ -9,3 +9,4 @@ orange
 red
 
 hey! i added red
+hey! i added color
